@@ -1,27 +1,12 @@
-# Shopping-Cart
+# React + Vite
 
-![Alt text](https://github.com/user-attachments/assets/24c69c50-9f95-4477-84a9-c32b2cc54db7)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-![Alt text](https://github.com/user-attachments/assets/c5acfca1-083d-4b91-9241-d5c7e1ee1e4e)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+## Expanding the ESLint configuration
 
-![Alt text](https://github.com/user-attachments/assets/41abd2aa-060a-4753-8ec9-2e2bb2d8d496)
-
-
-![Alt text](https://github.com/user-attachments/assets/d9fe9906-1d20-445d-8b3e-774431d0a494)
-
-
-- [Online Demo]()
-
-- Developed by Reza Geshani
-
-- Created - 2025-03-26
-
-- Technologies Used - TailwindCSS , LocalStorage , API , React.Js
-
-- Dependencies - Axios , React-Router
-
-- Role - Frontend
-
-- How to reach me : with my [instagram](https://www.instagram.com/rezageshani_web) and [linkedin](http://www.linkedin.com/in/reza-geshani-web)
+If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
